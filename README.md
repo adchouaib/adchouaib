@@ -25,8 +25,6 @@ A software engineering student at INPT(National Institute of Posts and Telecommu
 - 🤖 &nbsp; Machine Learning
 - 🛠️ &nbsp; Visual studio code | IntelliJ IDEA
 
-<br />
-<br />
 
 ### GitHub Stats ⚡
 
