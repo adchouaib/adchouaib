@@ -11,8 +11,6 @@ A software engineering student at INPT(National Institute of Posts and Telecommu
 - I’m currently learning new Stacks (NestJs , Angular) 🤣
 - I’m looking For an internship 😃
 - 🥅 2022 Goals: getting a fulltime fullstack engineering job
-- ⚡ Fun fact: I love to play volleyball
-
 
 ### 🛠 Languages and tools : 
 - 💻 &nbsp; &nbsp;Java | JavaScript | Ruby | Python
