@@ -13,8 +13,8 @@ A software engineering student at INPT(National Institute of Posts and Telecommu
 - 🥅 2022 Goals: getting a fulltime fullstack engineering job
 
 ### 🛠 Languages and tools : 
-- 💻 &nbsp; &nbsp;Java | JavaScript | Ruby | Python
-- 🌐&nbsp; &nbsp; HTML | CSSReact | NextJs | Node Js | Spring | Express Js | Redux | GraphQL | Bootstrap 
+- 💻 &nbsp; &nbsp;Java | JavaScript | C# 
+- 🌐&nbsp; &nbsp; HTML | CSSReact | NextJs | Node Js | Spring | Express Js | Redux | GraphQL | Bootstrap | .NET
 - 📱 &nbsp;  &nbsp; Android (Java) | Flutter
 - 🛢 &nbsp;&nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Github | slack | Docker | Jenkins 
