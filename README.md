@@ -8,7 +8,7 @@ A software engineering student at INPT(National Institute of Posts and Telecommu
 
 ## I'm a Junior Developer!!
 
-- I’m currently learning new Stacks (NestJs , Angular) 🤣
+- I’m currently learning new Stacks (.Net , Angular) 🤣
 - I’m looking For an internship 😃
 - 🥅 2022 Goals: getting a fulltime fullstack engineering job
 
