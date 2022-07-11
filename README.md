@@ -14,14 +14,14 @@ A software engineering student at INPT(National Institute of Posts and Telecommu
 
 ### 🛠 Languages and tools : 
 - 💻 &nbsp; &nbsp;Java | JavaScript | C# 
-- 🌐&nbsp; &nbsp; HTML | CSSReact | NextJs | Node Js | Spring | Express Js | Redux | GraphQL | Bootstrap | .NET
-- 📱 &nbsp;  &nbsp; Android (Java) | Flutter
-- 🛢 &nbsp;&nbsp; MySQL | MongoDB | Firebase
+- 🌐&nbsp; &nbsp; HTML | CSS | React | NextJs | Node Js | Express Js | Redux | GraphQL | Bootstrap | .NET
+- 📱 &nbsp;  &nbsp; React Native 
+- 🛢 &nbsp;&nbsp; MySQL | PostgresSQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Github | slack | Docker | Jenkins 
-- 🚀 &nbsp; Heroku | Netlify
+- 🚀 &nbsp; Heroku | Netlify | Vercel
 - ✍️ &nbsp; Adobe XD | Figma
 - 🤖 &nbsp; Machine Learning
-- 🛠️ &nbsp; Visual studio code | IntelliJ IDEA
+- 🛠️ &nbsp; Visual studio | IntelliJ IDEA
 
 
 ### GitHub Stats ⚡
